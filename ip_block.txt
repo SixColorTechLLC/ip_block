@@ -1,3 +1,8 @@
+#Payfrit
+143.244.177.154
+143.198.76.191
+146.190.166.252
+#End #Payfrit
 #Email Spam to block naval.olwase.com
 88.209.206.239
 #End naval.olwase.com
